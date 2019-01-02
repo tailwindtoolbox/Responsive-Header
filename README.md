@@ -1,6 +1,6 @@
-# [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Responsive Header Template](https://www.tailwindtoolbox.com/templates/Responsive-Header)
+# [Tailwind Toolbox](https://www.tailwindtoolbox.com/) - [Responsive Header Template](https://www.tailwindtoolbox.com/templates/responsive-header)
 
-[Responsive Header Template](https://www.tailwindtoolbox.com/templates/Responsive-Header) is an open source HTML template with a toggle button responsive header for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
+[Responsive Header Template](https://www.tailwindtoolbox.com/templates/responsive-header) is an open source HTML template with a toggle button responsive header for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
 
 ![Responsive Header](https://www.tailwindtoolbox.com/templates/responsive-header.png)
 
